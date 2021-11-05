@@ -14,3 +14,5 @@
 
 -   La App tiene un único flujo de la información:
     -    Tiene implementado Redux con middlewares para las peticiones asíncronas
+
+Puedes probarlo haciendo [click aquí](https://mpercif.github.io/journal-app/)
